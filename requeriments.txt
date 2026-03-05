@@ -1,5 +1,5 @@
-pip install mss
-pip install opencv-python
-pip install ffmpeg-python
-pip install websockets
-pip install PyYAML
+mss
+opencv-python
+ffmpeg-python
+websockets
+PyYAML
