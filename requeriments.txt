@@ -1,5 +1,0 @@
-mss
-opencv-python
-ffmpeg-python
-websockets
-PyYAML
